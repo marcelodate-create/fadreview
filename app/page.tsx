@@ -1,8 +1,8 @@
-export default function Home() {
+export default function Page() {
   return (
-    <main style={{ padding: 40 }}>
-      <h1>FadReview 🚀</h1>
-      <p>Projeto ativo.</p>
+    <main>
+      <h1>FadReview funcionando 🚀</h1>
+      <p>Plataforma de entrega de serviço com fotos</p>
     </main>
-  );
+  )
 }
